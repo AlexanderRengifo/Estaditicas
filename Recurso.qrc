@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Recursos/save_icon-icons.com_53618.png</file>
+        <file>Recursos/estadisticas.png</file>
+    </qresource>
+</RCC>
